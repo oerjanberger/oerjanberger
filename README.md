@@ -1,6 +1,6 @@
 # Hello 👋
 
-## I'm Oerjan and I am a Front-end
+## I'm Ørjan and I am a Front-end
 
 <picture>
  <img alt="developer" src="https://images.unsplash.com/photo-1546146830-2cca9512c68e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=50">
