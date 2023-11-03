@@ -7,14 +7,13 @@
 </picture>
 
 ### About me
-I am 32 y.o and based in Bergen, Norway. I am just finishing studying Front-end development at Noroff university this December 2022. Currently working on the last assignment from the university. Even though I am finishing the studies in a few days I am looking forward to continue learning and to better my skills as a Front-end develop. I am looking for work as a Front-end developer in a company where I can learn and grow.
+I am 33 y.o and based in Bergen, Norway. Currently working as a Senior Developer at @ScanReach with life saving technologies and efficiency tools for the maritime sector
 
 #### Other info about me
  - :dog: I have Bernes Moutain dog named Bella
  - :headphones: I'm constantly listening to music when I work
- - :video_game: I like to play COD when I can
  - :tv: Fantasy movies and series are hands down the best entertainment
- - :soccer: I love fotball and am currently enjoying the World Cup
+ - :soccer: I like to watch fotball with my friends
 
 ### :desktop_computer: Tech I have worked with
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=html5)
@@ -32,6 +31,7 @@ I am 32 y.o and based in Bergen, Norway. I am just finishing studying Front-end 
 ![Nextjs](https://img.shields.io/badge/-NEXT.js-white?style=for-the-badge&logo=Next.js&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=e535ab)
+![VUE3] (https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
 
 ### How to reach me 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:oerjan4@gmail.com) 
