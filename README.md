@@ -31,7 +31,8 @@ I am 33 y.o and based in Bergen, Norway. Currently working as a Senior Developer
 ![Nextjs](https://img.shields.io/badge/-NEXT.js-white?style=for-the-badge&logo=Next.js&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=e535ab)
-https://camo.githubusercontent.com/ab0deb81cb96d81cf2c5521f8e19f451ac73a4a2b92f0d0e4966d947cbe5932c/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f5675652f767565332e737667
+![VUE3](https://camo.githubusercontent.com/ab0deb81cb96d81cf2c5521f8e19f451ac73a4a2b92f0d0e4966d947cbe5932c/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f5675652f767565332e737667)
+
 
 ### How to reach me 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:oerjan4@gmail.com) 
