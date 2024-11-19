@@ -7,15 +7,18 @@
 </picture>
 
 ### About me
-I am 33 y.o and based in Bergen, Norway. Currently working as a Senior Developer at @ScanReach with life saving technologies and efficiency tools for the maritime sector
+
+I am 34 y.o and based in Bergen, Norway. Currently working as a Software Developer at @ScanReach with life saving technologies and efficiency tools for the maritime sector
 
 #### Other info about me
- - :dog: I have Bernes Moutain dog named Bella
- - :headphones: I'm constantly listening to music when I work
- - :tv: Fantasy movies and series are hands down the best entertainment
- - :soccer: I like to watch fotball with my friends
+
+- :dog: I have Bernes Moutain dog named Bella
+- :headphones: I'm constantly listening to music when I work
+- :tv: Fantasy movies and series are hands down the best entertainment
+- :soccer: I like to watch fotball with my friends
 
 ### :desktop_computer: Tech I have worked with
+
 ![HTML5](https://camo.githubusercontent.com/179a4de2c73f634f06b1a9d0fcf6cba859286953393103c4828ed7504449e3b1/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f48544d4c2f68746d6c312e737667)
 ![CSS3](https://camo.githubusercontent.com/da7eb6360caf98c2c097cd468068d0a5b2720073ed43cefc072415de9976c22f/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f4353532f637373312e737667)
 ![SASS](https://camo.githubusercontent.com/cdb8f75b52a3c911bfc8da9857d85e854c7f4ae1a96888d91ccea112c4cd8a2a/68747470733a2f2f7a6961646f75612e6769746875622e696f2f6d332d4d61726b646f776e2d4261646765732f6261646765732f536173732f73617373312e737667)
@@ -33,7 +36,7 @@ I am 33 y.o and based in Bergen, Norway. Currently working as a Senior Developer
 ![Strapi](https://img.shields.io/badge/-Strapi-white?style=for-the-badge&logo=Strapi&logoColor=4e26e0)
 ![WordPress](https://img.shields.io/badge/-WordPress-white?style=for-the-badge&logo=wordpress&logoColor=00749c)
 
+### How to reach me
 
-### How to reach me 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:oerjan4@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:oerjan4@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badg&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B8rjan-berger-80a05889/)
