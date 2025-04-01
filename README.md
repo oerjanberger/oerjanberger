@@ -1,6 +1,6 @@
 # Hello 👋
 
-## I'm Ørjan and I am a Front-end
+## I'm Ørjan and I am a Product owner, Software Developer and UX/UI Designer
 
 <picture>
  <img alt="developer" src="https://images.unsplash.com/photo-1546146830-2cca9512c68e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=50">
@@ -8,7 +8,7 @@
 
 ### About me
 
-I am 34 y.o and based in Bergen, Norway. Currently working as a Software Developer at @ScanReach with life saving technologies and efficiency tools for the maritime sector
+I am 34 y.o and based in Bergen, Norway. Currently working as a Product owner, Software Developer and UX/UI Designer at @ScanReach. Working on life saving technologies and efficiency tools for the maritime sector.
 
 #### Other info about me
 
